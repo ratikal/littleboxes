@@ -20,6 +20,7 @@
 <h4>TODO</h4>
 <ul>
 <li>Fix broken css</li>
+<li>Upload Files</li>
 <li>Agali agali..</li>
 </ul>
 
